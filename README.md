@@ -1,6 +1,7 @@
 # CP6-Java
 Sistema de Gerenciamento de Biblioteca Comunitária
 Henrique Reinhardt RM557270
+Eu sei que a data de entrega era pra ontem, mas faltou luz aqui em cotia e acebei ficando sem internet para postar o trabalho, sinto mmuito pelo atraso professor
 
 # Descrição:
 Um sistema de gerenciamento com aplicação web completa, desenvolvida em Spring Boot para gerenciar livros, usuários e empréstimos de uma biblioteca comunitária.
